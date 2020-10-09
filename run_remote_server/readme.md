@@ -1,2 +1,2 @@
-
+ ## copy a file path in macos: https://osxdaily.com/2015/11/05/copy-file-path-name-text-mac-os-x-finder/#:~:text=Navigate%20to%20the%20file%20or,replaces%20the%20standard%20Copy%20option
 eixt ssh connection can be easily done by killing the terminal.
