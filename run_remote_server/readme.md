@@ -6,7 +6,6 @@ some ubuntu cheatsheet: https://purplemonkeydishwasher.co.uk/ubuntu-terminal-com
 
  copy a file path in macos: https://osxdaily.com/2015/11/05/copy-file-path-name-text-mac-os-x-finder/#:~:text=Navigate%20to%20the%20file%20or,replaces%20the%20standard%20Copy%20option
 
- copy files between local and remote server: https://osxdaily.com/2015/11/05/copy-file-path-name-text-mac-os-x-finder/#:~:text=Navigate%20to%20the%20file%20or,replaces%20the%20standard%20Copy%20option
-
+ copy files between local and remote server: https://stackoverflow.com/questions/26346277/scp-files-from-local-to-remote-machine-error-no-such-file-or-directory
 
 eixt ssh connection can be easily done by killing the terminal.
