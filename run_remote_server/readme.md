@@ -9,3 +9,5 @@ some ubuntu cheatsheet: https://purplemonkeydishwasher.co.uk/ubuntu-terminal-com
  copy files between local and remote server: https://stackoverflow.com/questions/26346277/scp-files-from-local-to-remote-machine-error-no-such-file-or-directory
 
 eixt ssh connection can be easily done by killing the terminal.
+
+edit file with vi command: https://www.dummies.com/web-design-development/web-hosting/how-to-edit-files-with-vi/
